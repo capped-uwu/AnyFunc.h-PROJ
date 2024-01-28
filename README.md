@@ -9,6 +9,7 @@ AnyFunc::test("text")
 
 # Sample
 
+```cpp
 #include "AnyFunc.h"
 
 int main() {
@@ -17,9 +18,12 @@ int main() {
 
     return 0;
 }
+```
+```
+Output
 
-Output :
-text
+Testing Message!
+```
 
 # How To Use It?
 
