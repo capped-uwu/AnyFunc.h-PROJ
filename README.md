@@ -17,7 +17,8 @@ This Header File provide function For Compact,Eazy The C++ Programing
 
 int main() {
 
-    AnyFunc::test("Testing Message!");
+    AnyFunc::teststr("Testing Message!");
+    AnyFunc::testint(345);
 
     return 0;
 }
@@ -26,6 +27,7 @@ int main() {
 Output
 
 Testing Message!
+345
 ```
 
 # How To Use It?
