@@ -1,6 +1,6 @@
 # AnyFunc.h-PROJ
-This Program More Compact,Eazy The C++ Programing!
-Contact : discord gen.7sai
+This Program More Compact,Eazy The C++ Programing!  
+Contact : discord gen.7sai  
 
 TESTED ON VISUALSTUDIO 2020
 
@@ -32,7 +32,14 @@ Testing Message!
 
 Download Anyfunc.h  
 And Use It Like A Sample  
-(Anyfunc:: function put in int main())  
+
+AnyFunc:: Function Put In int main() Please!
+
+```cpp
+int main() {
+    AnyFunc::
+}
+```
 
 # More More!
 Imgui Ver : ImguiFunc.h  
