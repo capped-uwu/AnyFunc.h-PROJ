@@ -7,7 +7,7 @@ TESTED ON VISUALSTUDIO 2020
 # This Header File What Do
 This Header File provide function For Compact,Eazy The C++ Programing
 
-# Function List(1)
+# Function List(2)
 AnyFunc::test("text")
 
 # Sample
@@ -30,7 +30,8 @@ Testing Message!
 
 # How To Use It?
 
-Download Anyfunc.h  
+Download AnyFunc.h,  
+Include AnyFunc.h,
 And Use It Like A Sample  
 
 AnyFunc:: Function Put In int main() Please!
