@@ -7,8 +7,8 @@ TESTED ON VISUALSTUDIO 2020
 # This Header File What Do
 This Header File provide function For Compact,Eazy The C++ Programing
 
-# Function List(2)
-AnyFunc::test("text")
+# Function List
+(Moved In Release Page)
 
 # Sample
 
