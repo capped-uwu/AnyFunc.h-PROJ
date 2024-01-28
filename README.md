@@ -6,3 +6,23 @@ This Header File provide function For Compact,Eazy The C++ Programing
 
 # Function List(1)
 AnyFunc::test("text")
+
+# Sample
+
+#include "AnyFunc.h"
+
+int main() {
+
+    AnyFunc::test("Testing Message!");
+
+    return 0;
+}
+
+Output :
+text
+
+# How To Use It?
+
+Download Anyfunc.h
+And Use It Like A Sample
+(Anyfunc:: function put in int main())
