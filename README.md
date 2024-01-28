@@ -35,5 +35,5 @@ And Use It Like A Sample
 (Anyfunc:: function put in int main())
 
 # More More!
-Imgui Ver : ImguiFunc.h
-cpp for testing all? : download main
+Imgui Ver : ImguiFunc.h.
+cpp for testing all? : download main.
