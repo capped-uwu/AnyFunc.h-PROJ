@@ -1,3 +1,5 @@
+# BY MY OLD ACCOUNT
+
 # AnyFunc.h-PROJ
 This Program More Compact,Eazy The C++ Programing!  
 Contact : discord gen.7sai  
